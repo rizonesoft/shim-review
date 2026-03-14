@@ -5,7 +5,6 @@ This is the shim-review submission for **Impossible OS**, a custom x86-64 operat
 system built entirely from scratch (custom UEFI bootloader, 64-bit kernel, graphical
 desktop — no Linux, no GRUB).
 
-- **Main OS repo:** https://github.com/rizonesoft/impossible-os
 - **Bootloader repo:** https://github.com/rizonesoft/impossible-os-bootloader
 - **Shim fork:** https://github.com/rizonesoft/impossible-os-shim
 
@@ -44,7 +43,9 @@ N/A — first submission, no prior verified contacts.
 
 **Name:** Rizonesoft  
 **Contact:** Derick Payne \<derick@rizonetech.com\>  
-**Project:** Impossible OS — https://github.com/rizonesoft/impossible-os
+**Project:** Impossible OS  
+**Bootloader:** https://github.com/rizonesoft/impossible-os-bootloader  
+**Shim source:** https://github.com/rizonesoft/impossible-os-shim
 
 ## What is this used for?
 
